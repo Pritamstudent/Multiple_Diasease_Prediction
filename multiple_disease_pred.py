@@ -1,6 +1,9 @@
 
 import pickle
 import streamlit as st
+import sys
+
+sys.path.insert(1, "C:/Python310/Lib/site-packages/streamlit_option_menu")
 from streamlit_option_menu import option_menu
 
 
